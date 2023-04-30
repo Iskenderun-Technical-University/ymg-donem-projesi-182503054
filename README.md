@@ -18,7 +18,7 @@ Gidip gördüğümüz Cafe, Restaurant, vb mekanları puanlayıp kullanıcı yor
  
 
   
-:zap: ## Kullanılan Teknolojiler
+ ## Kullanılan Teknolojiler ##
 
 **Yazılım Dili:** Swift
 
