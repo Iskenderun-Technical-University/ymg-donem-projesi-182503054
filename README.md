@@ -52,4 +52,6 @@ Herhangi bir geri bildiriminiz varsa, lütfen isaduman.mdbf18@iste.edu.tr veya d
 
 ![Akış Diyagramı](https://iili.io/HS3g1Ns.png)
 
-  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
