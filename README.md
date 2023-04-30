@@ -24,7 +24,7 @@ Gidip gördüğümüz Cafe, Restaurant, vb mekanları puanlayıp kullanıcı yor
 
 **Veritabanı:** CoreData
 
-[![My Skills](https://skills.thijs.gg/icons?i=swift)]
+![My Skills](https://skills.thijs.gg/icons?i=swift)
   
 ## Yol haritası
 
