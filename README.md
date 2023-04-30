@@ -23,7 +23,7 @@ Gidip gördüğümüz Cafe, Restaurant, vb mekanları puanlayıp kullanıcı yor
 **Yazılım Dili:** Swift
 
 **Veritabanı:** CoreData
-[![My Skills](https://skills.thijs.gg/icons?i=swiftfigma&theme=light)]
+[![My Skills](https://skills.thijs.gg/icons?i=swiftfigma&theme=dark)]
   
 ## Yol haritası
 
