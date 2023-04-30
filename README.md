@@ -47,4 +47,8 @@ Herhangi bir geri bildiriminiz varsa, lütfen isaduman.mdbf18@iste.edu.tr veya d
 
 ![Uygulama Ekran Görüntüsü](https://iili.io/HS2nju1.jpg)
 
+## Akış Diyagramı
+
+! [Akış Diyagramı](https://iili.io/HS3g1Ns.png)
+
   
