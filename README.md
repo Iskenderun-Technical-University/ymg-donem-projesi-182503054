@@ -59,6 +59,6 @@ Herhangi bir geri bildiriminiz varsa, lütfen isaduman.mdbf18@iste.edu.tr veya d
 
 ## Ekran Görüntüleri
 
-<img src="https://iili.io/H4oSzVj.jpg" width="100" height="100" />
+<img src="https://iili.io/H4oSzVj.jpg" width="200" height="500" />
 
   
