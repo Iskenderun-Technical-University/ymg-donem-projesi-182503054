@@ -34,7 +34,7 @@ Beğendiğimiz oyunları görüp kütüphanede tutabileceğimiz puanları çık�
 
   ## Ekran Görüntüleri
 
-<img src="https://iili.io/H4oSzVj.jpg" width="200" height="400" />
+<img src="https://iili.io/H4oSzVj.jpg" width="200" height="400" /> <img src="https://iili.io/H4oZRAx.jpg" width="200" height="400" /> <img src="https://iili.io/H4oSdP4.jpg" width="200" height="400" />
 
 ## Geri Bildirim
 
