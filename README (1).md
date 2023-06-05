@@ -46,6 +46,10 @@ Herhangi bir geri bildiriminiz varsa, lütfen isaduman.mdbf18@iste.edu.tr veya d
 | ----------------- | ------------------------------------------------------------------ |
 | örnek renk | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 
+## Akış Diyagramı
+
+![Akış Diyagramı](https://iili.io/H4oQxkv.png)
+
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
