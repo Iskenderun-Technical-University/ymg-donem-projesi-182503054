@@ -45,3 +45,7 @@ Herhangi bir geri bildiriminiz varsa, lütfen isaduman.mdbf18@iste.edu.tr veya d
 | Renk             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | örnek renk | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
